@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Sumit Rawat.<br>🔭 I’m currently working on Improving my skills and growing as a developer.<br>🌱 I’m currently learning - Full Stack Development (MERN Stack).<br>🤝 I’m looking for help with Networking with other developers and finding collaborative opportunities.<br>💬 Ask me about Anything related to web development or programming — I’m always open to discussions!<br>⚡Code. Lift. Repeat. 💪
+👋 Hi, I’m Sumit Rawat.<br>🔭 Always working on Improving my skills and growing as a developer.<br>🌱 I’m Full Stack Development (MERN Stack).<br>🤝 I’m looking for help with Networking with other developers and finding collaborative opportunities.<br>💬 Ask me about Anything related to web development or programming. I’m always open to discussions!<br>⚡Code. Lift. Repeat. 💪
 
 
 ## 🌐 Socials:
